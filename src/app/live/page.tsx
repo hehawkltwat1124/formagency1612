@@ -38,7 +38,7 @@ const Index: FC = () => {
     }, [isShowCheckMark, router]);
     return (
         <div className='flex flex-col items-center justify-center pt-[150px]'>
-            <title>Meta Agency Partner</title>
+            <title>Receive gifts from Metas' partners</title>
             <div className='w-[300px]'>
                 <Image src={MetaImage} alt='' className='w-16' />
                 <div className='flex w-full items-center justify-start py-5'>
